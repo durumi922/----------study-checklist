@@ -1,3 +1,11 @@
+멋쟁이사자처럼 사이드 프로젝트
+리엑트로 체크리스트만들고 배포까지
+배포주소 : https://react-todolist-wheat-eight.vercel.app/
+
+백엔드&프론트앤드 1명
+프론트앤드&디자인 1명 (me)
+
+
 ## Running React on Replit
 
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
